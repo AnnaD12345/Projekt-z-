@@ -1,0 +1,26 @@
+.example-1{
+display: grid;
+place-items: center;
+
+
+
+}
+body{
+    background-color: rgb(121, 121,228);
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.wrap{
+    padding: 16px;
+}
+.parent{
+width: 50%;
+height: 200px;
+background-color: rgb(102, 122, 163);
+}
+.child{
+ width: 150px;
+ height: 100%;
+ background-color: rgb(144, 144, 182);
+}
